@@ -1,4 +1,4 @@
-# Durgod-Hades-German
+# Durgod Hades config with macros for German Umlaute
 This is a .hera file alongside all macros necessary for typing German Umlaute on Windows and macOS.
 
 Supported are: ä ö ü Ä Ö Ü and ß
