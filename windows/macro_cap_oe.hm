@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Parameters>
+    <macro name="Win Macro Oe">
+        <item type="key" state="down" keyCode="164" name="Alt" delay="0"/>
+        <item type="key" state="down" keyCode="97" name="1" delay="5"/>
+        <item type="key" state="up" keyCode="97" name="1" delay="5"/>
+        <item type="key" state="down" keyCode="101" name="5" delay="5"/>
+        <item type="key" state="up" keyCode="101" name="5" delay="5"/>
+        <item type="key" state="down" keyCode="99" name="3" delay="5"/>
+        <item type="key" state="up" keyCode="99" name="3" delay="5"/>
+        <item type="key" state="up" keyCode="164" name="Alt" delay="5"/>
+    </macro>
+</Parameters>

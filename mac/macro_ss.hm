@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Parameters>
+    <macro name="Mac Macro ss">
+        <item type="key" state="down" keyCode="164" name="Alt" delay="0"/>
+        <item type="key" state="down" keyCode="83" name="s" delay="5"/>
+        <item type="key" state="up" keyCode="83" name="s" delay="5"/>
+        <item type="key" state="up" keyCode="164" name="Alt" delay="5"/>
+    </macro>
+</Parameters>
