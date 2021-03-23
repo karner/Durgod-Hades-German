@@ -12,7 +12,7 @@ Fn1 + Fn2 + corresponding letter will type the upper case character.
 e.g.: Fn1 + Fn2 + a -> Ä
 
 
-# How this works:
+# How this works
 The characters are created using a macro which presses a sequence of keys specific to each platform.
 In this hera config, profile 1 holds the macros for Windows, and profile 2 holds the macros for macOS.
 I chose a delay of 5 ms between each key action which seems to work well for me, but might need some tweaking on different systems.
