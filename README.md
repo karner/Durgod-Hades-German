@@ -30,6 +30,9 @@ The macros use the combination of pressing Alt + u followed by the respective ch
 
 This method was tested with the standard US keyboard layout, possibly there are differences when using a different layout.
 
+## Known issue
+As this uses the numpad, on Windows Numlock needs to be on for this to work properly. If pressing the buttons results in cursor movement or other unexpected behavior which might be related to the numpad acting as cursor keys. The state of numpad on boot can be set in the BIOS, or in the registry editor using the InitialKeyboardIndicators value. Please make sure you know what you do when manipulating registry values. For me setting the value to 2 for all users solved the issue, but watch out, it might be different for you. (Or put differently: You're on your own on this path, as stated below: ...NO LIABILITY FOR ANY CLAIM, DAMAGES...)
+
 # License (MIT)
 Copyright 2021 Mathias Karner
 
